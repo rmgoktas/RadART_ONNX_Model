@@ -14,7 +14,8 @@ class ONNXModel:
     def __init__(self, dir_path) -> None:
         
         model_dir = os.path.dirname(dir_path)
-        signature_dir = "/home/ec2-user/genresONNX"
+        signature_dir = "RadART_ONNX_Model-main FOLDER_PATH" 
+        #example: /Users/rmgoktas/Desktop/RadART_ONNX_Model-main
         
 
         with open(os.path.join(signature_dir, "signature.json"), "r") as f:
