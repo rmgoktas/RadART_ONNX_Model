@@ -1,5 +1,5 @@
 # RadART App ONNX Model
-AI Model that predicts the style of paintings. Deployed on AWS EC2.
+AI Model that predicts the movements of paintings. Deployed on AWS EC2.
 ## How to test on my machine locally ?
 
 - Clone the repository. Also you can download by ZIP.
